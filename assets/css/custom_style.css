@@ -1,0 +1,14 @@
+
+
+/* Logo resize for mobile */
+@media (max-width: 480px) {
+    /* Styles for mobile phones */
+    /* Add your CSS rules here */
+    .logo_detail{
+        font-size: 25px;
+    }
+
+    .logo{
+        width: 56px;
+    }
+  }
